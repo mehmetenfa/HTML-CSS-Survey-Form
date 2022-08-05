@@ -1,0 +1,16 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.bar {
+    display: block;
+    margin-top: 15px;
+}
+
+.bar2 {
+    margin-bottom: 15px;
+}
